@@ -10,9 +10,7 @@
 
 ## 🌐 Live Demo
 
-**[View My Portfolio](https://portfolio-annanya111.vercel.app)**
-
-> Replace with your actual Vercel link above ⬆️
+**[View My Portfolio](portfolio-o6vk8l522-annanya111s-projects.vercel.app)**
 
 ---
 
