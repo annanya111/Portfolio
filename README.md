@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-**[View My Portfolio](portfolio-green-sigma-14.vercel.app)**
+**[View My Portfolio](https://annanyaportfolio.netlify.app/)**
 
 ---
 
